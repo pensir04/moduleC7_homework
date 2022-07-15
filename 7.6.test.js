@@ -4,5 +4,5 @@ describe("reverse for string", () => {
   it("should get reverse string", () => {
     const result = 'привет';
     expect(result).toBe('тевирп');
-  }),
+  });
 });
